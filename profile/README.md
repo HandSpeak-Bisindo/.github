@@ -21,5 +21,5 @@ C. Python Deploy Code: [Deploy.py](https://github.com/HandSpeak-Bisindo/ML/blob/
 
 There are some false detection, and need further improvement for our projects.
 
-#Cloud Computing
+# Cloud Computing
 
