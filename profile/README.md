@@ -1,4 +1,10 @@
-# Hi there 👋
+# HandSpeak-Bisindo
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)]
+
+HandSpeak is an application for interactively learning BISINDO sign language. 
+We offer an interactive platform for studying BISINDO sign language with hand recognition via smartphone camera.
+ 
+ 
 # Mobile Development
 
 
