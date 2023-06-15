@@ -8,12 +8,23 @@ We offer an interactive platform for studying BISINDO sign language with hand re
 # Mobile Development
 This repository contains code for a front-end mobile development project that utilizes several technologies. The technologies used in this project are as follows:
 
-Figma: Figma is a cloud-based design and prototyping tool that allows collaborative interface design. It enables designers to create, share, and iterate on designs in real-time.
-Kotlin: Kotlin is a modern programming language used for Android app development. It is fully interoperable with Java and provides a concise and expressive syntax.
-Android Studio: Android Studio is the official integrated development environment (IDE) for Android app development. It provides tools and features for building, testing, and debugging Android applications.
-Firebase: Firebase is a comprehensive development platform provided by Google. It offers a wide range of services, including authentication, real-time database, storage, cloud functions, and more, to help build mobile and web apps.
-Retrofit: Retrofit is a type-safe HTTP client library for Android and Java. It simplifies the process of making network requests by handling the conversion of API responses to Java or Kotlin objects.
-Intent Camera: Intent Camera is an Android API that allows developers to integrate the device's camera functionality into their applications. It enables capturing photos or videos and provides access to various camera features.
+## Figma: 
+Figma is a cloud-based design and prototyping tool that allows collaborative interface design. It enables designers to create, share, and iterate on designs in real time.
+
+## Kotlin: 
+Kotlin is a modern programming language used for Android app development. It is fully interoperable with Java and provides a concise and expressive syntax.
+
+## Android Studio: 
+Android Studio is the official integrated development environment (IDE) for Android app development. It provides tools and features for building, testing, and debugging Android applications.
+
+## Firebase: 
+Firebase is a comprehensive development platform provided by Google. It offers a wide range of services, including authentication, real-time database, storage, cloud functions, and more, to help build mobile and web apps.
+
+## Retrofit: 
+Retrofit is a type-safe HTTP client library for Android and Java. It simplifies the process of making network requests by handling the conversion of API responses to Java or Kotlin objects.
+
+## Intent Camera: 
+Intent Camera is an Android API that allows developers to integrate the device's camera functionality into their applications. It enables capturing photos or videos and provides access to various camera features.
 Installation
 To set up and run the front-end mobile development project, follow these steps:
 
@@ -26,19 +37,20 @@ Open the project's source code files in Android Studio and ensure that the neces
 Build and run the project on an Android device or emulator using Android Studio.
 Note: Make sure you have the required access and permissions to use the technologies mentioned above. You may need to sign up for developer accounts or obtain API keys for certain services.
 
-Usage
+## Usage
 Once the project is set up and running, you can use the mobile application to perform specific tasks or interact with the provided features. The exact functionality and usage instructions will depend on the specific requirements and implementation of the project. Refer to the code documentation, comments, or consult the project team for detailed information on how to effectively use the application.
 
-License
+## License
 This code is provided under the MIT License. Please refer to the LICENSE file in the repository for more information.
 
-Acknowledgments
-Figma
-Kotlin
-Android Studio
-Firebase
-Retrofit
-Android Developer Documentation for Intent Camera
+## Acknowledgments
+<ul>
+    <li><a href="https://www.figma.com/">Figma</a></li>
+    <li><a href="https://kotlinlang.org/">Kotlin</a></li>
+    <li><a href="https://developer.android.com/studio">Android Studio</a></li>
+   <li><a href="https://firebase.google.com/?hl=id">Firebase</a></li>
+    <li><a href=https:https://square.github.io/retrofit/">Retrofit</a></li>
+    <li><a href=https://developer.android.com/">Android Developer Documentation for Intent Camera</a></li>
 
 
 
