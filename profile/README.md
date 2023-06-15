@@ -64,6 +64,10 @@ npm run dev
 ```
 Note: Make sure you have the required access and permissions to use the technologies mentioned above.
 
+## Endpoint : https://capstone-project-c23-pc635.ts.r.appspot.com
+example : https://capstone-project-c23-pc635.ts.r.appspot.com/upload
+
+
 ## Usage
 Once the application is running, you can use the provided features to perform specific tasks related to the application's functionality. Please refer to the code documentation or consult the project team for more information on how to use the application effectively.
 
